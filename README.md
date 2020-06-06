@@ -1,4 +1,4 @@
-![PROJECT_PHOTO](https://github.com/zv0vano/PhisxPixel/blob/master/proj_img.jpg)
+![PROJECT_PHOTO](https://github.com/zvvano/PhisxPixel/blob/master/proj_img.jpg)
 # Математическая модель шариков на плоскости
 * [Описание проекта](#chapter-0)
 * [Папки проекта](#chapter-1)
@@ -20,4 +20,4 @@
 
 <a id="chapter-2"></a>
 ## Схемы
-![SCHEME](https://github.com/zv0vano/PhisxPixel/blob/master/scheme.jpg)
+![SCHEME](https://github.com/zvvano/PhisxPixel/blob/master/scheme.jpg)
