@@ -20,4 +20,4 @@
 
 <a id="chapter-2"></a>
 ## Схемы
-![SCHEME](https://github.com/zvvano/PhisxPixel/blob/master/scheme.jpg)
+![SCHEME](https://github.com/zvvano/PhisxPixels/blob/master/scheme.jpg)
