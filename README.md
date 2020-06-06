@@ -9,7 +9,7 @@
 Матрица светодиодов, имитирующая движение шариков по наклонной плоскости
 На основе проекта Alex Gyver
 Ссылка на его проект: https://github.com/AlexGyver/GravityPixels
-- Подробности в видео: hhttps://youtu.be/dueJTClX7c4
+- Подробности в видео: https://youtu.be/dueJTClX7c4
 
 <a id="chapter-1"></a>
 ## Папки
